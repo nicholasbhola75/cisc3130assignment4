@@ -1,0 +1,468 @@
+Movie Genre Report
+
+Average Number of Movies per Genre: 26
+
+Genres with an Above Average Amount of Movies: 
+
+Genre = Drama
+Amount of Movies under this genre = 272
+Amount of movies with this Genre in Year 1937: 1
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 1
+Amount of movies with this Genre in Year 1965: 1
+Amount of movies with this Genre in Year 1967: 1
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 1
+Amount of movies with this Genre in Year 1976: 2
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 2
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 8
+Amount of movies with this Genre in Year 1993: 52
+Amount of movies with this Genre in Year 1994: 96
+Amount of movies with this Genre in Year 1995: 93
+Amount of movies with this Genre in Year 1996: 14
+
+Genre = Comedy
+Amount of Movies under this genre = 204
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 1
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 3
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 2
+Amount of movies with this Genre in Year 1993: 27
+Amount of movies with this Genre in Year 1994: 78
+Amount of movies with this Genre in Year 1995: 72
+Amount of movies with this Genre in Year 1996: 21
+
+Genre = Romance
+Amount of Movies under this genre = 110
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 1
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 2
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 4
+Amount of movies with this Genre in Year 1993: 18
+Amount of movies with this Genre in Year 1994: 34
+Amount of movies with this Genre in Year 1995: 41
+Amount of movies with this Genre in Year 1996: 9
+
+Genre = Thriller
+Amount of Movies under this genre = 103
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 1
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 1
+Amount of movies with this Genre in Year 1989: 1
+Amount of movies with this Genre in Year 1990: 1
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 20
+Amount of movies with this Genre in Year 1994: 30
+Amount of movies with this Genre in Year 1995: 36
+Amount of movies with this Genre in Year 1996: 11
+
+Genre = Action
+Amount of Movies under this genre = 95
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 1
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 1
+Amount of movies with this Genre in Year 1981: 1
+Amount of movies with this Genre in Year 1982: 1
+Amount of movies with this Genre in Year 1989: 1
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 17
+Amount of movies with this Genre in Year 1994: 28
+Amount of movies with this Genre in Year 1995: 37
+Amount of movies with this Genre in Year 1996: 6
+
+Genre = Crime
+Amount of Movies under this genre = 67
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 1
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 1
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 1
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 11
+Amount of movies with this Genre in Year 1994: 19
+Amount of movies with this Genre in Year 1995: 30
+Amount of movies with this Genre in Year 1996: 3
+
+Genre = Adventure
+Amount of Movies under this genre = 60
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 1
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 1
+Amount of movies with this Genre in Year 1981: 1
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 1
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 8
+Amount of movies with this Genre in Year 1994: 19
+Amount of movies with this Genre in Year 1995: 22
+Amount of movies with this Genre in Year 1996: 6
+
+Genre = Children
+Amount of Movies under this genre = 50
+Amount of movies with this Genre in Year 1937: 1
+Amount of movies with this Genre in Year 1940: 1
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 1
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 1
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 5
+Amount of movies with this Genre in Year 1994: 13
+Amount of movies with this Genre in Year 1995: 23
+Amount of movies with this Genre in Year 1996: 3
+
+Genre = Sci-Fi
+Amount of Movies under this genre = 34
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 1
+Amount of movies with this Genre in Year 1981: 1
+Amount of movies with this Genre in Year 1982: 1
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 6
+Amount of movies with this Genre in Year 1994: 7
+Amount of movies with this Genre in Year 1995: 14
+Amount of movies with this Genre in Year 1996: 3
+
+Genre = Fantasy
+Amount of Movies under this genre = 31
+Amount of movies with this Genre in Year 1937: 1
+Amount of movies with this Genre in Year 1940: 1
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 1
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 2
+Amount of movies with this Genre in Year 1993: 4
+Amount of movies with this Genre in Year 1994: 10
+Amount of movies with this Genre in Year 1995: 11
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = Horror
+Amount of Movies under this genre = 28
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 1
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 2
+Amount of movies with this Genre in Year 1994: 8
+Amount of movies with this Genre in Year 1995: 13
+Amount of movies with this Genre in Year 1996: 3
+
+
+Genres with a Below Average Amount of Movies: 
+
+Genre = Mystery
+Amount of Movies under this genre = 26
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 4
+Amount of movies with this Genre in Year 1994: 7
+Amount of movies with this Genre in Year 1995: 13
+Amount of movies with this Genre in Year 1996: 2
+
+Genre = War
+Amount of Movies under this genre = 16
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 2
+Amount of movies with this Genre in Year 1994: 6
+Amount of movies with this Genre in Year 1995: 8
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = Animation
+Amount of Movies under this genre = 14
+Amount of movies with this Genre in Year 1937: 1
+Amount of movies with this Genre in Year 1940: 1
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 1
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 1
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 1
+Amount of movies with this Genre in Year 1994: 3
+Amount of movies with this Genre in Year 1995: 4
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = Western
+Amount of Movies under this genre = 13
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 1
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 1
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 2
+Amount of movies with this Genre in Year 1994: 6
+Amount of movies with this Genre in Year 1995: 3
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = Documentary
+Amount of Movies under this genre = 13
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 2
+Amount of movies with this Genre in Year 1994: 4
+Amount of movies with this Genre in Year 1995: 6
+Amount of movies with this Genre in Year 1996: 1
+
+Genre = Musical
+Amount of Movies under this genre = 13
+Amount of movies with this Genre in Year 1937: 1
+Amount of movies with this Genre in Year 1940: 1
+Amount of movies with this Genre in Year 1964: 1
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 4
+Amount of movies with this Genre in Year 1994: 2
+Amount of movies with this Genre in Year 1995: 1
+Amount of movies with this Genre in Year 1996: 1
+
+Genre = Film-Noir
+Amount of Movies under this genre = 3
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 1
+Amount of movies with this Genre in Year 1993: 1
+Amount of movies with this Genre in Year 1994: 0
+Amount of movies with this Genre in Year 1995: 1
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = IMAX
+Amount of Movies under this genre = 3
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 1
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 0
+Amount of movies with this Genre in Year 1994: 1
+Amount of movies with this Genre in Year 1995: 1
+Amount of movies with this Genre in Year 1996: 0
+
+Genre = C
+Amount of Movies under this genre = 1
+Amount of movies with this Genre in Year 1937: 0
+Amount of movies with this Genre in Year 1940: 0
+Amount of movies with this Genre in Year 1964: 0
+Amount of movies with this Genre in Year 1965: 0
+Amount of movies with this Genre in Year 1967: 0
+Amount of movies with this Genre in Year 1969: 0
+Amount of movies with this Genre in Year 1970: 0
+Amount of movies with this Genre in Year 1973: 0
+Amount of movies with this Genre in Year 1976: 0
+Amount of movies with this Genre in Year 1977: 0
+Amount of movies with this Genre in Year 1981: 0
+Amount of movies with this Genre in Year 1982: 0
+Amount of movies with this Genre in Year 1989: 0
+Amount of movies with this Genre in Year 1990: 0
+Amount of movies with this Genre in Year 1991: 0
+Amount of movies with this Genre in Year 1992: 0
+Amount of movies with this Genre in Year 1993: 0
+Amount of movies with this Genre in Year 1994: 0
+Amount of movies with this Genre in Year 1995: 0
+Amount of movies with this Genre in Year 1996: 1
